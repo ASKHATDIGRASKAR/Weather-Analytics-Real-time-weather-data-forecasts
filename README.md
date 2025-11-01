@@ -1,5 +1,4 @@
-# Temp Trend Viz
-
+# Weather-Analytics-Real-time-weather-data-forecasts
 A lightweight TypeScript + D3 visualization app for exploring temperature trends over time. This project provides interactive charts, filtering, and exportable views to help analyze climate or local temperature datasets.
 
 ## Features
@@ -92,10 +91,8 @@ yarn test
 - Fork the repo, create a feature branch, open a PR
 - Run linters and tests locally before submitting
 
-## License
-Choose a license (e.g., MIT). Update LICENSE file accordingly.
-
 ## Maintainers / Contact
 - GitHub: github\AKSHATDIGRASKAR
 - Email: akshatdigraskar58@gmail.com
+
 
