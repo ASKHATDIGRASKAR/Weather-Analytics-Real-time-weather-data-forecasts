@@ -96,5 +96,6 @@ yarn test
 Choose a license (e.g., MIT). Update LICENSE file accordingly.
 
 ## Maintainers / Contact
-- GitHub: @ourtraveldiaries07-rgb
-- Email: (add contact email)
+- GitHub: github\AKSHATDIGRASKAR
+- Email: akshatdigraskar58@gmail.com
+
